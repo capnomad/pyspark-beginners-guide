@@ -20,6 +20,7 @@ Databricks(the company) is owned by the creators of Spark.
 \
 \
 Databricks provides a Community Edition of their platform for developers to learn Spark. We get a basic cluster setup and a Jupyter-style notebook attached to the cluster. Whenever we run a code on that notebook, it is executed on the cluster. It's super easy to use and learn.
+Also we get some good datasets built in that we can import and practice.
 
 
 * [Anaconda Distribution](https://www.anaconda.com/products/distribution): Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
@@ -47,7 +48,8 @@ Databricks provides a Community Edition of their platform for developers to lear
 
 
 ### Spark Practice
-* [Kaggle: Your Home for Data Science](https://www.kaggle.com/datasets): **Kaggle** is a platform for data engineers and data scientists. YOu can get a lot of resources here
+* Databricks: Databricks provides a good amount of datasets as part of Community edition. You can use it inside a notebook and start coding.
+* [Kaggle: Your Home for Data Science](https://www.kaggle.com/datasets): **Kaggle** is a platform for data engineers and data scientists. You can get a lot of resources here
     * Datasets
     * Notebooks
     * Discussions etc.
